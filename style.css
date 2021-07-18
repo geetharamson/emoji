@@ -1,0 +1,16 @@
+//style.css
+.rate {
+  text-align: center;
+  width: 250px;
+  height: 250px;
+  ouline: thin solid lightgray;
+}
+.emoji {
+  font-size: 120px;
+  height: 170px;
+  line-height: 170px;
+}
+
+input {
+  cursor: ew-resize;
+}
